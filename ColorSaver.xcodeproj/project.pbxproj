@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E67DCCB1C557A87000139BC /* ColorSaverThumbnail.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = ColorSaverThumbnail.sketch; sourceTree = "<group>"; };
 		2E927C461C5567C700FE4562 /* ColorSaver.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorSaver.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E927C491C5567C700FE4562 /* ColorSaverView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorSaverView.h; sourceTree = "<group>"; };
 		2E927C4B1C5567C700FE4562 /* ColorSaverView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorSaverView.m; sourceTree = "<group>"; };
@@ -57,6 +58,7 @@
 				2E927C4D1C5567C700FE4562 /* Info.plist */,
 				2E927C531C55708300FE4562 /* thumbnail.png */,
 				2E927C541C55708300FE4562 /* thumbnail@2x.png */,
+				2E67DCCB1C557A87000139BC /* ColorSaverThumbnail.sketch */,
 			);
 			path = ColorSaver;
 			sourceTree = "<group>";
@@ -270,6 +272,7 @@
 				2E927C521C5567C700FE4562 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
