@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E91180B1C5595120017E349 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2E91180A1C5595120017E349 /* LICENSE.txt */; };
 		2E927C4A1C5567C700FE4562 /* ColorSaverView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2E927C491C5567C700FE4562 /* ColorSaverView.h */; };
 		2E927C4C1C5567C700FE4562 /* ColorSaverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E927C4B1C5567C700FE4562 /* ColorSaverView.m */; };
 		2E927C551C55708300FE4562 /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E927C531C55708300FE4562 /* thumbnail.png */; };
@@ -16,6 +17,7 @@
 /* Begin PBXFileReference section */
 		2E67DCCB1C557A87000139BC /* ColorSaverThumbnail.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = ColorSaverThumbnail.sketch; sourceTree = "<group>"; };
 		2E67DCCE1C557C18000139BC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2E91180A1C5595120017E349 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		2E927C461C5567C700FE4562 /* ColorSaver.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorSaver.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E927C491C5567C700FE4562 /* ColorSaverView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorSaverView.h; sourceTree = "<group>"; };
 		2E927C4B1C5567C700FE4562 /* ColorSaverView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorSaverView.m; sourceTree = "<group>"; };
@@ -39,6 +41,7 @@
 			isa = PBXGroup;
 			children = (
 				2E67DCCE1C557C18000139BC /* README.md */,
+				2E91180A1C5595120017E349 /* LICENSE.txt */,
 				2E927C481C5567C700FE4562 /* ColorSaver */,
 				2E927C471C5567C700FE4562 /* Products */,
 			);
@@ -134,6 +137,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E91180B1C5595120017E349 /* LICENSE.txt in Resources */,
 				2E927C551C55708300FE4562 /* thumbnail.png in Resources */,
 				2E927C561C55708300FE4562 /* thumbnail@2x.png in Resources */,
 			);
